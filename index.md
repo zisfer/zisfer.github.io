@@ -1,5 +1,5 @@
 ### MARCUS HOLLOWAY
-![marcus holloway](https://static.wikia.nocookie.net/watchdogs_gamepedia/images/f/fc/WD2_Portrait_Marcus_Holloway.png/revision/latest/scale-to-width-down/300?cb=20160829210556)
+<img src="/WatchDogs.jpg" width="100%">
 
 <table border="0">
   <tr>
@@ -15,7 +15,7 @@
       <p><b> Appears In                    Watch Dogs 2 legions</b></p>
     </td>
     <td width="50%">
-      <img src="/WatchDogs.jpg" width="100%">  
+     <img src="/OIP-C.jpg" width="100%"> 
     </td>
   </tr>
 </table>

@@ -1,7 +1,7 @@
 ### MARCUS HOLLOWAY
 ![marcus holloway](https://static.wikia.nocookie.net/watchdogs_gamepedia/images/f/fc/WD2_Portrait_Marcus_Holloway.png/revision/latest/scale-to-width-down/300?cb=20160829210556)
 
-<table border="5">
+<table border="0">
   <tr>
     <td width="50%">
       <h1>Marcus</h1>

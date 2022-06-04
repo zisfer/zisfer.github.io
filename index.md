@@ -1,37 +1,15 @@
-#呼吸系统疾病
-##总论
-##急性上呼吸道感染和急性气管-支气管炎
-###急性上呼吸道感染
-###急性气管支气管炎
-##慢性支气管炎、慢性阻塞性肺疾病
-###慢性支气管炎
-###	慢性阻塞性肺疾病
-##支气管哮喘
-##支气管扩张症
-##肺部感染性疾病
-###肺炎概述
-###细菌性肺炎
-###其他病原体所致肺部感染
-###肺脓肿
-##肺结核
-##肺癌
-##间质性肺疾病
-###间质性肺疾病的分类
-###特发性肺纤维化
-###结节病
-###其他间质性肺疾病
-##肺血栓栓塞症
-##肺动脉高压与肺源性心脏病
-###肺动脉高压的分类
-###特发性肺动脉高压
-###慢性肺源性心脏病
-##胸膜疾病
-###胸腔积液
-###气胸
-##睡眠呼吸暂停低通气综合征
-##急性呼吸窘迫综合征
-##呼吸衰竭与呼吸支持技术
-###急性呼吸衰竭
-###慢性呼吸衰竭
-###呼吸支持技术
-##烟草病学概要
+### MARCUS HOLLOWAY
+
+#### Age                           30
+#### Date of Birth                 December/11/1992
+#### Hometown                      Oakland
+#### Residence                     San Francisco(Presumed)
+#### Ethnicity                     African-American
+#### Nationality                   American
+#### Occupation                    Hacktivist, Vigilante
+#### Traits                        Smart&Sharp
+#### Affiliation                   DedSec
+#### Role                          Main protagonist
+#### Status                        Alive
+#### Voice Actor                   Ruffin Prentiss
+#### Appears In                    Watch Dogs 2 legions
